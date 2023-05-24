@@ -2,7 +2,7 @@
 
 Internship Project for iNeuron
 
-software used For data viz : python and tableau
+software used For data viz : python and power bi
 
 Goals: To Look at the birthplaces of each player and from where they belong
 
