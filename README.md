@@ -1,13 +1,19 @@
-# Big-Game-Data-visBig-Game-Data-Viz-Project
+# Big Game Data Viz Project
 
-The big game cenus visualization project.
+Internship Project for iNeuron
 
-The internsihp project for INeuron company.
+software used For data viz : python and tableau
 
-Software used Python and Power BI.
+Goals: To Look at the birthplaces of each player and from where they belong
 
-The goal of project to look at the birthplace of each player belong where they from.
+To analyze the basic overview and give our findings after analyzing the data
 
-The show the data visual and make a dashboard. Dashboard Youtube link https://youtu.be/vL8013WV7jA
+Represent the data visually and make a dashboard
 
-Project report link https://drive.google.com/file/d/1yt8Q095gyHhP6lJeeIAeGJOWmQrP9xE6/view?usp=sharing
+dashboard link:
+
+See All Details about datasets 
+
+Project report:
+
+youtube viedo:
