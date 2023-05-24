@@ -10,10 +10,8 @@ To analyze the basic overview and give our findings after analyzing the data
 
 Represent the data visually and make a dashboard
 
-dashboard link:
+See All Details about datasets: https://drive.google.com/file/d/1z2yUNhKpeVlMWvoKAXDT7QjvXwaN9eeF/view?usp=share_link
 
-See All Details about datasets 
+Project report: https://drive.google.com/file/d/1yt8Q095gyHhP6lJeeIAeGJOWmQrP9xE6/view?usp=share_link
 
-Project report:
-
-youtube viedo:
+youtube viedo: https://youtu.be/vL8013WV7jA
